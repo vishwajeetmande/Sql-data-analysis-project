@@ -1,0 +1,8 @@
+ProductID,Name,Category,Price,Stock,SupplierID
+101,Laptop,Electronics,800.0,10,1
+102,Smartphone,Electronics,500.0,20,2
+103,Desk Chair,Furniture,150.0,15,3
+104,Notebook,Stationery,5.0,50,4
+105,Headphones,Electronics,50.0,30,2
+106,Desk Lamp,Furniture,30.0,25,3
+107,Backpack,Accessories,40.0,40,4

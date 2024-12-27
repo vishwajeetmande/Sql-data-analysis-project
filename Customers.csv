@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Country,RegistrationDate,PhoneNumber
+1,Alice Green,alice.green@mail.com,USA,2023-01-15,1234567890
+2,Bob Brown,bob.brown@mail.com,Canada,2023-03-10,2345678901
+3,Charlie Gray,charlie.gray@mail.com,India,2023-02-05,3456789012
+4,Diana White,diana.white@mail.com,UK,2023-04-20,4567890123
+5,Ethan Black,ethan.black@mail.com,USA,2023-06-01,5678901234
